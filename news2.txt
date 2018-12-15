@@ -3,7 +3,7 @@
 
 [B][COLOR white]Welkom bij de Zatrix build[/COLOR][/B]
 
-Ben je een nieuwe/bestaande gebruiker en ben je nog niet lid onze Facebook groep?
+Ben je een nieuwe/bestaande gebruiker en ben je nog geen lid van onze Facebook groep?
 Meld je dan snel aan hier kun je tips en hulp vragen over de build.[B][COLOR white] http://bit.ly/FBZatrix [/COLOR][/B]
 
 Helaas is gebleken dat door vernieuwingen in hardware de Boxen draaiend op OPENELEC niet meer alle codecs supporten die nodig zijn voor het streamen tegenwoordig. We proberen de addons nog zo goed mogelijk werkzaam te houden op maar dit wordt steeds lastiger tov LibreElec boxen.
